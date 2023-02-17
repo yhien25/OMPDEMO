@@ -1,0 +1,4 @@
+[29-Oct-2015 14:28:21 UTC] PHP Notice:  Undefined index: ID in /home/onlinem2/public_html/control/visitor/index.php on line 43
+[29-Oct-2015 14:28:21 UTC] PHP Notice:  Undefined variable: name in /home/onlinem2/public_html/control/visitor/index.php on line 51
+[29-Oct-2015 14:28:21 UTC] PHP Notice:  Undefined variable: name in /home/onlinem2/public_html/control/visitor/template/product.php on line 79
+[29-Oct-2015 14:28:21 UTC] PHP Notice:  Undefined variable: name in /home/onlinem2/public_html/control/visitor/template/product.php on line 80

@@ -1,0 +1,29 @@
+figure:hover{
+	opacity:0.7;
+}
+#prod{
+	height:365x;
+	border:1px solid #ddd;
+	margin-bottom:5px;
+	padding:5px;
+}
+#prod #prod_image{
+	text-align:center;
+	height:200px;
+}
+pre{
+	font-family:Helvetica;
+}
+@media screen and (max-width: 991px){
+	#prod{
+		height:auto;
+		clear:both;
+		overflow:auto;
+
+	}
+	#prod #prod_image{
+		text-align:left;
+		float:left;
+		margin-right:5px;
+	}
+}
